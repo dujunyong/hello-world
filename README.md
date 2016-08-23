@@ -1,2 +1,3 @@
 # hello-world
-This is a hello-world program.
+Hi Humans！
+   Hubot here,I like Node.js.
